@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Secure The Vault</title>
+    <link rel="stylesheet" href="Vault.css">
+    <script src="vault.js"></script>
+</head>
+<body>
+    <h1>Welcome to the Vault</h1>
+</body>
+</html>
